@@ -1,6 +1,6 @@
 # The Witcher 3 Cheat Sheet
 
-To view the cheat sheet [click here](https://pollyvx.github.io/the-witcher-3-cheat-sheet/)
+To view the cheat sheet [click here](https://pollyvx.github.io/Witcher3-cheatsheet/)
 
 ## Contribution Guide
 
